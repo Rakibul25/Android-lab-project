@@ -14,3 +14,8 @@ Firebase, Android Studio
 - holiday view
 # Developed by
 [Rakibul Islam](https://github.com/Rakibul25)
+
+# Documentation
+- First of all turn on internet connection of your device.
+- Log In
+
