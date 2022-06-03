@@ -18,7 +18,7 @@ Firebase, Android Studio
 # Documentation
 - First of all turn on internet connection of your device.
 - After opening app, select user mode.(Techer/Student)
-![Select mode]([http://url/to/img.png](Screenshot_20220603-201456.jpg))
+![Select mode]([[http://url/to/img.png](https://github.com/Rakibul25/Android-lab-project/blob/master/MyClassRoom/images/Screenshot_20220603-201456.jpg)])
 Select Teacher, student part is not complete yet.
 - LogIn as teacher
  Please use "r" as user name and "r1" as password. The backend will match it with firebase realtime database.
