@@ -17,5 +17,8 @@ Firebase, Android Studio
 
 # Documentation
 - First of all turn on internet connection of your device.
-- Log In
+- LogIn as teacher
+ Please use "r" as user name and "r1" as password. The backend will match it with firebase realtime database.
+ If the user name, pass ok then it will take you to home page and show a welcome toast. If wrong then it will give a alert toast.
+ Image
 
