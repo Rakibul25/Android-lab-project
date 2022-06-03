@@ -6,3 +6,8 @@ This project is for my university android development course. The idea is to mak
 - course content
 - notice board
 - holiday view
+# Developed Using
+- Programming and other Language
+Java, XML
+- Other tools and technology
+Firebase, Android Studio
