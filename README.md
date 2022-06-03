@@ -13,4 +13,4 @@ Java, XML
 Firebase, Android Studio
 - holiday view
 # Developed by
-Rakibul Islam
+[Rakibul Islam](https://github.com/Rakibul25)
