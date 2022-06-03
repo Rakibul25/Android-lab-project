@@ -5,17 +5,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:background="#ED9C24"
     tools:context=".Teacherhome">
 
     <GridView
         android:id="@+id/gridhometeacher"
-        android:numColumns="2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:gravity="center"
-        android:columnWidth="1000dp"
         android:layout_marginTop="10dp"
-        ></GridView>
+        android:columnWidth="1000dp"
+        android:gravity="center"
+        android:numColumns="2">
+    </GridView>
 
 
 

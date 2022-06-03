@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/drawable/side_nav_bar.xml" value="0.1415" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/activity_calender.xml" value="0.17074275362318841" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/activity_my_course.xml" value="0.17074275362318841" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/activity_notifications.xml" value="0.17074275362318841" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/activity_student_log_in.xml" value="0.17074275362318841" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/activity_studenthome.xml" value="0.17074275362318841" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/activity_teacher_log_in.xml" value="0.17074275362318841" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/activity_teacherhome.xml" value="0.17074275362318841" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/drawerlay.xml" value="0.15579710144927536" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/gridmenuview.xml" value="0.17074275362318841" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/layout/nav_header_main.xml" value="0.15579710144927536" />
+        <entry key="..\:/android/Project/MyClassRoom/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
