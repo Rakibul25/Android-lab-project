@@ -11,3 +11,6 @@ This project is for my university android development course. The idea is to mak
 Java, XML
 - Other tools and technology :
 Firebase, Android Studio
+- holiday view
+# Developed by
+Rakibul Islam
