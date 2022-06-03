@@ -7,7 +7,7 @@ This project is for my university android development course. The idea is to mak
 - notice board
 - holiday view
 # Developed Using
-- Programming and other Language
+- Programming and other Language :
 Java, XML
-- Other tools and technology
+- Other tools and technology :
 Firebase, Android Studio
