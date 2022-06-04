@@ -26,10 +26,14 @@ Select Teacher, student part is not complete yet.
  Please use "r" as user name and "r1" as password. The backend will match it with firebase realtime database.
  If the user name, pass ok then it will take you to home page and show a welcome toast. If wrong then it will give a alert toast.
 <img src="https://github.com/Rakibul25/Android-lab-project/blob/master/MyClassRoom/images/Screenshot_20220603-201501.jpg" width="220" height="430">
+- LogIn as student
+ Please use "rs" as user name and "r1" as password. The backend will match it with firebase realtime database.
+ If the user name, pass ok then it will take you to home page and show a welcome toast. If wrong then it will give a alert toast.
 - Teacher home
 Here is a gridview using adapter. IF we elect course view, it will show courses from database.
 <img src="https://github.com/Rakibul25/Android-lab-project/blob/master/MyClassRoom/images/Screenshot_20220603-201525.jpg" width="220" height="430">
 
 -Firebase
+
 <img src="https://github.com/Rakibul25/Android-lab-project/blob/master/MyClassRoom/images/firebase.JPG" width="430" height="230">
 
